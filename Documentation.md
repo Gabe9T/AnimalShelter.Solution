@@ -1,5 +1,5 @@
 # AnimalShelter API
-## an api animal names, age, and species
+## A api for animal names, age, and species
 _by Gabriel Tucker_
 
 ## Setup/Installation Requirements
